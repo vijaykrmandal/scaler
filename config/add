@@ -1,0 +1,13 @@
+<html>
+<body>
+<head></head>
+<h1> My new cool Website!! </h1>
+<table>
+	<tr><td>My Cell 1</td><tr>
+	<tr><td>My Cell 2</td></tr>
+	<tr><td>My Cell 3</td></tr>
+	<tr><td>My Cell 4</td></tr>
+</table>
+</body>
+
+</html>
